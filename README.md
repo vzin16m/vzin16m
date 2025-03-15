@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá! Eu sou o Vinicius D Matosinho 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzin16m&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzin16m&layout=compact&theme=dracula)
 <!--
 **vzin16m/vzin16m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
